@@ -1,0 +1,51 @@
+
+Student 1: Sara Gamal
+Student 2: Eman Ibrahim
+
+Q1:
+
+Write your answer here
+there are 243  different words in the dictionary and each one have embedding
+
+
+Q2:
+
+Write Your answer here
+it represents the dimension of the embedding vector for each word
+
+
+Predicted Country:
+Egypt
+
+Predicted Similarity:
+0.7626820802688599
+
+Q3:
+
+Type Yes or No
+yes beacuse cairo is the capital of egypt and greece is the country of athens
+
+
+Q4:
+
+Type Yes or No. and the reason for your answer.
+yes because the similarity is 0.7624742 which is a high value and it is close to 1
+
+
+Computed Accuracy:
+0.9192082407594425
+
+Q5:
+
+Type Yes or No
+yes
+
+
+Q6:
+
+Type your answer here
+the plot shows the relation between the words in the list and the distance between them 
+the words that are close to each other in the plot are similar in meaning
+(happy, joyful,sad) are close to each other in the plot
+(village, town, city) are close to each other in the plot and so on
+
